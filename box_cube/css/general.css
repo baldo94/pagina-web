@@ -1,0 +1,34 @@
+div {
+	border: 1px solid black;
+}
+
+body {background-image: url('../images/patron.jpg');
+	background-repeat: repeat-y;
+	background-image: repeat-x;
+   
+	background-color: #333;
+	margin: 0px;
+	padding: 0px;
+	font-family: calibri;
+}
+
+#pagina {
+    
+	width: 1070px;
+	margin: 0 auto 0 auto;
+	
+}
+
+a {
+	color: #616161;
+	text-decoration: none;
+}
+
+
+.Block {
+	display: inline-block;
+}
+
+.Stop {
+	clear: both;
+}

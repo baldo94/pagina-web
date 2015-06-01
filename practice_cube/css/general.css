@@ -1,0 +1,21 @@
+div{border: 2px solid gray;
+}
+
+body{
+
+	background-color: #333;
+	margin: 0px;
+	padding: 0px;
+	font-family: calibri;
+}
+#pagina {
+	background-position: center;
+	width: 1070px;
+	height: 2000px;
+	margin: 0 auto 0 auto;
+}
+
+#encabezado{
+	background-image: url('../images/fondo_encabezado.jpg');
+	width: 1070px;
+}

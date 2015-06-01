@@ -1,0 +1,70 @@
+body{
+	font-family: arial,helvetica, "san serif"
+}
+
+div{
+	border:1px solid gray;
+}
+
+#page {
+	width: 1200px;
+	height: 0 auto;
+}
+
+#header{
+	background-image: url("images/color_fondo.png");
+	background-repeat: no-repeat;
+}
+
+#logo{
+	margin-left: 130px;
+	box-shadow: 4px 1px 5px 10 #333;
+}
+
+#menu{
+	float: right;
+	margin: -right:130px;
+}
+
+#menu li {
+	display:inline;
+	margin-left:54px;
+}
+
+#menu a {
+	text-decoration: none;
+}
+
+#banner{
+	float: right;
+	width: 365px;
+}
+
+#tab{float: right;
+
+	width: 633px;
+	padding: 23px;
+	background-image: url("images/imagen_fondo");
+
+}
+
+#tab div{
+	width: 365px;
+	margin: 0 auto;
+}
+
+.StopRod{
+	clear:both;
+}
+
+#claim {
+	color:#0e218a;
+	font-size: 24pt;
+	font-weight: bold;
+
+}
+
+#tab p{
+	/*color:#777;
+	*/
+}

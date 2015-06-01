@@ -1,0 +1,55 @@
+
+#cabecera {
+	background-color: #242424;
+}
+
+#fronton {
+  color: #616161;
+  text-align: right;
+  background-image: url('../images/fondo_fronton.png');
+  margin: 11px 0px;
+}
+
+#logo {
+	float: left;
+	margin: 32px;
+}
+
+#mini_menu li {
+	display: inline;
+	margin: 1ex;
+}
+
+.Columna{
+	width: 10px;
+	background-color: white;
+	height: 12px;
+	vertical-align: top;
+}
+
+#columna_izq{
+   background-image: url('../images/borde_busqueda_izq.png');
+   background-repeat: no-repeat;
+   background-position: left top;
+}
+#borde_inf_izq{
+   background-image: url('../images/borde_inf_izquierdo.png');
+   background-position:bottom;
+}
+
+#columna_der{
+	background-image:url('../images/borde_derecho.png')
+}
+
+#busqueda {	
+}
+#contenido_busqueda {
+	background-color: #242424;
+}
+
+
+#menu{	
+	margin: 5px;
+	text-indent: 35px;
+}
+
